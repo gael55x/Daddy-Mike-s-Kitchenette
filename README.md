@@ -1,2 +1,5 @@
 # Daddy-Mike-s-Kitchenette
-A flask application where it focuses on Daddy Mike's food products such Batchoy and catering services. 
+A flask application where it focuses catering services.
+
+
+Currently in development
